@@ -9,7 +9,8 @@ const config: DocsThemeConfig = {
   chat: {
     link: "https://discord.com",
   },
-  docsRepositoryBase: "https://github.com/engageintellect/engageintellect_docs",
+  docsRepositoryBase:
+    "https://github.com/engageintellect/engageintellect_docs/blob",
   footer: {
     text: "@engage_intellect docs",
   },
