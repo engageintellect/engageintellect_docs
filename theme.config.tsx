@@ -10,7 +10,7 @@ const config: DocsThemeConfig = {
     link: "https://discord.com",
   },
   docsRepositoryBase:
-    "https://github.com/engageintellect/engageintellect_docs/blob",
+    "https://github.com/engageintellect/engageintellect_docs/blob/main",
   footer: {
     text: "@engage_intellect docs",
   },
