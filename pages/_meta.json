@@ -1,27 +1,26 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  
-  
-  "projects": {
-    "title": "Projects",
-    "type": "page"
+    "index": {
+    "title": "Nextra",
+    "type": "page",
+    "display": "hidden",
+    "theme": {
+      "layout": "full"
+    }
   },
 
+   "Docs": {
+    "title": "Docs",
+    "type": "page",
+    "href": "/docs"
+  },
+   
   "about": {
     "title": "About",
     "type": "page"
   },
-  
-  "resume": {
-    "title": "Resume",
-    "type": "page"
-  },
-
-
+    
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contact",
     "type": "page",
     "href": "https://twitter.com/engageintellect",
     "newWindow": true

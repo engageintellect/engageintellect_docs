@@ -2,7 +2,7 @@ import React from "react";
 import { DocsThemeConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
-  logo: <span>@engage_intellect docs</span>,
+  logo: <span>@engage_intellect</span>,
   project: {
     link: "https://github.com/engageintellect/engageintellect_docs",
   },
@@ -12,7 +12,7 @@ const config: DocsThemeConfig = {
   docsRepositoryBase:
     "https://github.com/engageintellect/engageintellect_docs/blob/main",
   footer: {
-    text: "@engage_intellect docs",
+    text: "@engage_intellect",
   },
 };
 
